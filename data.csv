@@ -1,0 +1,10 @@
+Type,ID,Name,Surname,Additional Info,Associated IDs
+Employee,8d35bfba-227e-4aca-aafb-dd5e2a873437,Michael,Gosser,office,
+Employee,f3e5486b-a697-4ba7-9120-6fd13e8907b8,Christian,Costner,Office,
+Employee,b6a542cd-170a-4a6d-98e7-2383cc7c042c,Hans,Szombat,Trainer,
+Manager,d6396f11-8990-41ab-9f85-86e57ffdbf80,Rafael,Spiegel,,
+Manager,e68d1a45-bd4a-47ef-afe8-17840287ea13,Norbert,Puntigam,,8d35bfba-227e-4aca-aafb-dd5e2a873437; f3e5486b-a697-4ba7-9120-6fd13e8907b8
+Director,d2fb71d4-4ef5-4c36-b09b-e053cc0792de,Monika,Gross,45,e68d1a45-bd4a-47ef-afe8-17840287ea13
+Director,a7606179-6371-4961-93ab-fa031478392b,Filip,Macdonald,55,e68d1a45-bd4a-47ef-afe8-17840287ea13; d6396f11-8990-41ab-9f85-86e57ffdbf80
+Owner,fc761a1f-03bd-4dee-87da-acfe0f56a545,Tobias,Budweiser,30,
+Owner,d814ffc7-162d-444f-a2e8-7f3295cc15a9,Jaroslav,Krc,60,
